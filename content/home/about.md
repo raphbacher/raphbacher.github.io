@@ -36,6 +36,6 @@ weight = 5
 +++
 
 # Biography
-
-I'm a research with interests in signal processing, data science, ... with applications in Astronomy, Earth sciences, Biology.
-I like to tinker with computer stuff (aka a "geek") being languages (Python, Julia) or systems (servers, conteners, networks...)
+Like everyone else I'm searching.
+But on a professional level my research interests dwells within signal processing (or data science to be cool) with applications in Astronomy, Earth sciences, Biology...
+I like to tinker with computer stuff (aka a "geek") being languages (Python, Julia) or systems (servers, conteners, networks...).
