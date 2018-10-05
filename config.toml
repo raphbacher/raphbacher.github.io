@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "raphael.bacher@univ-grenoble-alpes.fr"
-  address = "IMAG Building Room 273, 700 avenue Centrale 38401 St Martin d'Hères"
+  address = "IMAG Building Room 271, 700 avenue Centrale 38401 St Martin d'Hères"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
